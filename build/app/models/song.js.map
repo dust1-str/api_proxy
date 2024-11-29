@@ -1,0 +1,1 @@
+{"version":3,"file":"song.js","sourceRoot":"","sources":["../../../app/models/song.ts"],"names":[],"mappings":";;;;;;;;;AACA,OAAO,EAAE,SAAS,EAAE,MAAM,EAAE,MAAM,qBAAqB,CAAA;AAEvD,MAAM,CAAC,OAAO,OAAO,IAAK,SAAQ,SAAS;CAY1C;AAVS;IADP,MAAM,CAAC,EAAE,SAAS,EAAE,IAAI,EAAE,CAAC;;gCACV;AAGV;IADP,MAAM,EAAE;;oCACa;AAGd;IADP,MAAM,EAAE;;mCACY;AAGb;IADP,MAAM,EAAE;;mCACY"}
